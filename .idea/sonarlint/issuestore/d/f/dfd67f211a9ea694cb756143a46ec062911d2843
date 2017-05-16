@@ -1,0 +1,7 @@
+
+?squid:S2160"*Override this superclass' "equals" method.(áÍ¬Ÿ
+…"squid:ClassVariableVisibilityCheck"YMake paintSequence a static final constant or non-public and provide accessors if needed.(ü­ÌÒ
+‚"squid:ClassVariableVisibilityCheck"VMake paintIndex a static final constant or non-public and provide accessors if needed.(¸½§Ú
+†"squid:ClassVariableVisibilityCheck"ZMake fillPaintIndex a static final constant or non-public and provide accessors if needed.(êü²í
+ssquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Dsquid:S1948"/Make "paintSequence" transient or serializable.(ü­ÌÒ

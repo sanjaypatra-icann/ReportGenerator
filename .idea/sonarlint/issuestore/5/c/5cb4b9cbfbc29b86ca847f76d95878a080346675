@@ -1,0 +1,39 @@
+
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+^squid:S1192"IDefine a constant instead of duplicating this literal "BLOCKER" 10 times.(’Şñ›
+dsquid:S1192"ODefine a constant instead of duplicating this literal "VULNERABILITY" 24 times.(Ç—â¯
+\squid:S1192"GDefine a constant instead of duplicating this literal "MAJOR" 10 times.(ÓÂ 
+asquid:S1192"LDefine a constant instead of duplicating this literal "CODE_SMELL" 24 times.(À¤É
+dsquid:S1192"JDefine a constant instead of duplicating this literal "CRITICAL" 10 times.(²¾“Ôÿÿÿÿÿ
+asquid:S1192"GDefine a constant instead of duplicating this literal "MINOR" 10 times.(ÇÂó½øÿÿÿÿ
+6squid:S2095"!Close this "CloseableHttpClient".(ıê”Ê
+4squid:S2095"Close this "HSSFWorkbook".(ĞÅ±Ìøÿÿÿÿ
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(€ä»Ã
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÛØÙä
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ë¸á­
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Î‘Â¦
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¾ÁÏ©üÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ö¬
+ssquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "phrase".(Ï‡‰¡
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(µÁğó
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¨Õ¬üÿÿÿÿ
+\squid:CallToDeprecatedMethod"6Remove this use of "createGraphics"; it is deprecated.(å«å¬
+Osquid:S1118":Add a private constructor to hide the implicit public one.(–›º…
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+?squid:S00108")Either remove or fill this block of code.(”ı¾
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Š£¿ô
+Zsquid:S1858"@"format" returns a string, there's no need to call "toString()".(‡·’ùøÿÿÿÿ
+Zsquid:S1858"@"format" returns a string, there's no need to call "toString()".(‡·’ùøÿÿÿÿ
+]squid:UselessImportCheck";Remove this unused import 'com.itextpdf.text.pdf.BaseFont'.(‘æË¾
+]squid:UselessImportCheck"6Remove this unused import 'org.jfree.chart.plot.Plot'.(Ù®áØıÿÿÿÿ
+]squid:UselessImportCheck";Remove this unused import 'javax.swing.text.DateFormatter'.(Øúã¾
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(÷ìÂúÿÿÿÿÿ
